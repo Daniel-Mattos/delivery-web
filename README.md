@@ -1,6 +1,12 @@
+## Explicando o projeto
+
+Um projeto desenvolvido para venda de comidas online
+
 # DeliveryWeb
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
+
+
 
 ## Development server
 
