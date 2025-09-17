@@ -1,6 +1,6 @@
 "use client";
 
-import type{ InputHTMLAttributes } from "react";
+import type { InputHTMLAttributes } from "react";
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
   label: string;
