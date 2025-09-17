@@ -71,7 +71,24 @@ export default function Home() {
           />
           <span>Churrasquinho do Zé</span>
         </div>
-      </div>
+      </div >
+        <div className="w-full flex items-center gap-16 mt-8">
+          <Produto
+            name="Mercado"
+            description="imagem Mercado"
+            path="/comida.jpg"
+          />
+          <Produto
+            name="Brasileira"
+            description="comidas Brasileiras"
+            path="/comida.jpg"
+          />
+          <Produto
+            name="Promoções"
+            description="Promoções do dia"
+            path="/comida.jpg"
+          />
+        </div>
     </div>
   );
 }
